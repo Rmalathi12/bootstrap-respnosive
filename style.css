@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.text-green{
+    color: green;
+}
+.text-orange{
+    color: orange;
+}
+.bg-color{
+    background-color: lightgray;
+}
+.font-size{
+    font-size: 11px;
+}
+.container{
+    background-color: rgb(245, 242, 242);
+}
