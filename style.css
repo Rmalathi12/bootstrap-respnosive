@@ -17,6 +17,7 @@
 }
 .container-fluid{
     background-color: rgb(245, 242, 242);
+    width:100dvw;
 }
 .d-grid{
     width:98dvw;
