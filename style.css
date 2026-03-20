@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 .text-green{
     color: green;
@@ -13,6 +15,13 @@
 .font-size{
     font-size: 11px;
 }
-.container{
+.container-fluid{
     background-color: rgb(245, 242, 242);
+}
+.d-grid{
+    width:98dvw;
+}
+.carousel-slide{
+    width:98dvw;
+    justify-content: center;
 }
